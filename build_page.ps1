@@ -15,4 +15,6 @@ Remove-Item -Force -Path "$targetDir/404.html", `
 
 Move-Item .vitepress/dist/* ../../../web/
 
+Remove-Item -Recurse -Force -Path "$targetDir/res"
+
 Pop-Location
