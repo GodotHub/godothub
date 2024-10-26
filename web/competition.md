@@ -22,7 +22,7 @@ In 2024, the competition is officially named Godot Hub Festival with a year suff
 
 ****  
 
-The competition invited Sundance Starstone, Godohan, Hi Xiao Hu, Kaoru no Jun, Saki, and many other bigwigs in the Godot China community to participate, and it also gained a lot of attention. In the end, 128 players registered, 41 teams successfully submitted their entries, and after scoring by members of the competition's judging panel, one each of the Best Game Award, Best Jam Game Award, and Most Creative Game Award, three First Prize winners, six Second Prize winners, nine Third Prize winners, and a number of Excellence Awards were selected. The list is as follows:  
+The competition invited 巽星石, 戈多翰, Hi小胡, 薰之君, 咲夜, and many other bigwigs in the Godot China community to participate, and it also gained a lot of attention. In the end, 128 players registered, 41 teams successfully submitted their entries, and after scoring by members of the competition's judging panel, one each of the Best Game Award, Best Jam Game Award, and Most Creative Game Award, three First Prize winners, six Second Prize winners, nine Third Prize winners, and a number of Excellence Awards were selected. The list is as follows:  
 
 ![](/res/sreenshot/ghf24-list.png)  
 
