@@ -30,7 +30,7 @@ export default defineConfig({
             items: [
               { text: 'Software', link: '/software' },
               { text: 'Community', link: '/community' },
-              { text: 'Competition', link: '/competition' },
+              { text: 'Competition', link: '/competition' }
             ]
           }
         ],
@@ -60,7 +60,7 @@ export default defineConfig({
       themeConfig: {
 
         nav: [
-          { text: 'Home', link: '/zh' },
+          { text: '主页', link: '/zh' },
         ],
 
         sidebar: [
@@ -69,7 +69,7 @@ export default defineConfig({
             items: [
               { text: '软件项目', link: '/zh/software' },
               { text: '交流社区', link: '/zh/community' },
-              { text: '开发比赛', link: '/zh/competition' },
+              { text: '开发比赛', link: '/zh/competition' }
             ]
           }
         ],
