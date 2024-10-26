@@ -23,4 +23,3 @@ features:
     details: 每年一次的开发比赛，始于2023
     link: /zh/competition
 ---
-

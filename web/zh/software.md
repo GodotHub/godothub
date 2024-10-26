@@ -8,10 +8,6 @@
 
 获取方式：在Windows平台的[微软应用商店](https://apps.microsoft.com/detail/9pfnm10997dc)搜索`Godot Hub`下载。  
 
-<!-- <a href="https://apps.microsoft.com/detail/9pfnm10997dc?mode=direct">
-	<img src="https://get.microsoft.com/images/zh-cn%20dark.svg" width="200"/>
-</a> -->
-
 ## Gype  
 
 带有JavaScript/TypeScript支持的Godot游戏引擎，以GDE和QuickJS赋能。  

@@ -23,4 +23,3 @@ features:
     details: Annual development competition starting in 2023
     link: /competition
 ---
-
