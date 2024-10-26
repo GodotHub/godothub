@@ -13,17 +13,17 @@ Advanced Godot Engine Service Platform
 ### Create Project  
 
 <p style="text-align: center;">
-  <img src="./res/001.png" style="width: 70%;" />
+  <img src="./res/001.png" style="width: 80%;" />
 </p>
 
 ### Search Plugins  
 
 <p style="text-align: center;">
-  <img src="./res/002.png" style="width: 70%;" />
+  <img src="./res/002.png" style="width: 80%;" />
 </p>
 
 ### Install Engine  
 
 <p style="text-align: center;">
-  <img src="./res/003.png" style="width: 70%;" />
+  <img src="./res/003.png" style="width: 80%;" />
 </p>
