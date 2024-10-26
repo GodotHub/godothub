@@ -6,7 +6,7 @@ We are committed to providing an even more superior ecological experience for th
 
 Advanced service platform for Godot game engine. Provides a series of functions including downloading engine, creating new projects, installing and exporting templates, searching and installing plugins. Built-in mirrors for mainland China. Currently still in development, will be open source soon.  
 
-How to get it: Search `Godot Hub` in [Microsoft Store](https://apps.microsoft.com/detail/9pfnm10997dc) on Windows.  
+Download: Search `Godot Hub` in [Microsoft Store](https://apps.microsoft.com/detail/9pfnm10997dc)(Windows).  
 
 ## Gype  
 
