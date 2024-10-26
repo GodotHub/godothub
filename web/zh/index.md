@@ -3,7 +3,7 @@ layout: home
 
 hero:
   name: "Godot Hub"
-  tagline: Advanced Godot Engine Service Platform
+  tagline: 领先的Godot游戏引擎服务平台
   actions:
     - theme: brand
       text: 下载软件
@@ -14,7 +14,7 @@ hero:
 
 features:
   - title: 软件项目
-    details: 服务与社区的软件和引擎插件
+    details: 服务于社区的软件和引擎插件
     link: /zh/software
   - title: 交流社区
     details: 在社区里交流游戏开发的乐趣
