@@ -2,6 +2,7 @@ import { defineConfig } from 'vitepress'
 
 export default defineConfig({
   // base: "/web/",
+  base: "/godothub/",
   title: "Godot Hub",
   description: "Advanced Godot Engine Service Platform",
 
