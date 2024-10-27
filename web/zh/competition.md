@@ -4,7 +4,7 @@
 
 ## Festival 2023  
 
-2023年，我们与统信软件合作举行了[第一届开发大赛](https://mp.weixin.qq.com/s/ld8kysXWPH6kAjM9hUvtgw)。这是中国大陆地区参与人数最多的Godot游戏引擎的开发大赛，取得了广泛关注。  
+2023年，我们与[统信软件](https://www.uniontech.com)合作举行了[第一届开发大赛](https://mp.weixin.qq.com/s/ld8kysXWPH6kAjM9hUvtgw)。这是中国大陆地区参与人数最多的Godot游戏引擎的开发大赛，取得了广泛关注。  
 
 ![](/res/sreenshot/ghf23-tx.png)  
 
@@ -16,7 +16,7 @@
 
 ## Festival 2024  
 
-2024年，比赛正式定名为Godot Hub Festival，并以年份为后缀。我们与openKylin社区联合举办了[第二届开发大赛](https://mp.weixin.qq.com/s/60dgL5Pb8HTzwv7APeQAew)，并以开源作为比赛主旨之一，为开源事业添砖加瓦。 
+2024年，比赛正式定名为Godot Hub Festival，并以年份为后缀。我们与[openKylin](https://www.openkylin.top/)社区联合举办了[第二届开发大赛](https://mp.weixin.qq.com/s/60dgL5Pb8HTzwv7APeQAew)，并以开源作为比赛主旨之一，为开源事业添砖加瓦。 
 
 ![](/res/sreenshot/ghf24-ok.png)  
 

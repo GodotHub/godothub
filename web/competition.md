@@ -16,7 +16,7 @@ You can search and experience the entries in the app store of UOS or Deepin syst
 
 ## Festival 2024  
 
-In 2024, the competition is officially named Godot Hub Festival with a year suffix. We co-organized [the second development competition](https://mp.weixin.qq.com/s/60dgL5Pb8HTzwv7APeQAew) with the openKylin community, and used open source as one of the main themes of the competition to add to the open source cause.   
+In 2024, the competition is officially named Godot Hub Festival with a year suffix. We co-organized [the second development competition](https://mp.weixin.qq.com/s/60dgL5Pb8HTzwv7APeQAew) with the [openKylin](https://www.openkylin.top/) community, and used open source as one of the main themes of the competition to add to the open source cause.   
 
 ![](/res/sreenshot/ghf24-ok.png)  
 
