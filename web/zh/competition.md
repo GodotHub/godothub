@@ -16,7 +16,7 @@
 
 ## Festival 2024  
 
-2024年，比赛正式定名为Godot Hub Festival，并以年份为后缀。我们与[openKylin](https://www.openkylin.top/)社区联合举办了[第二届开发大赛](https://mp.weixin.qq.com/s/60dgL5Pb8HTzwv7APeQAew)，并以开源作为比赛主旨之一，为开源事业添砖加瓦。 
+2024年，比赛正式定名为Godot Hub Festival，并以年份为后缀。我们与[openKylin](https://www.openkylin.top)社区联合举办了[第二届开发大赛](https://mp.weixin.qq.com/s/60dgL5Pb8HTzwv7APeQAew)，并以开源作为比赛主旨之一，为开源事业添砖加瓦。 
 
 ![](/res/sreenshot/ghf24-ok.png)  
 
