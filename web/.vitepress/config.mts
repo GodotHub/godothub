@@ -18,6 +18,12 @@ export default defineConfig({
       label: 'English',
       lang: 'en',
       link: '/',
+      head: [
+        [
+          'link',
+          { rel: 'icon', href: '/res/icon/icon.png' }
+        ]
+      ],
       themeConfig: {
 
         nav: [
@@ -56,11 +62,17 @@ export default defineConfig({
     zh: {
       label: '简体中文',
       lang: 'zh',
-      link: '/zh',
+      link: '/zh/',
+      head: [
+        [
+          'link',
+          { rel: 'icon', href: '/res/icon/icon.png' }
+        ]
+      ],
       themeConfig: {
 
         nav: [
-          { text: '主页', link: '/zh' },
+          { text: '主页', link: '/zh/' },
         ],
 
         sidebar: [
