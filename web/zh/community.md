@@ -11,10 +11,11 @@
 ## 微信公众号  
 
 扫码或在微信搜索`Godot Hub`关注我们的公众号平台。  
+点击加入[微信群](https://godothub.atomgit.net/festival2024/wechat)(扫码备注意图，比如"加官方群")  
 
 ![](/res/wechat/qrcode.png)  
 
 ## Festival 2024群组  
 
-QQ群号：765066043  
+QQ群号：765066043   
 点击加入[微信群](https://godothub.atomgit.net/festival2024/wechat)(扫码备注意图，比如"加2024比赛群")  
