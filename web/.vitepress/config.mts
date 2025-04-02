@@ -1,6 +1,7 @@
 import { defineConfig } from 'vitepress'
 
 export default defineConfig({
+  // base: "/",
   base: "/web/",
   // base: "/godothub/",
   title: "Godot Hub",
@@ -9,7 +10,7 @@ export default defineConfig({
   head: [
     [
       'link',
-      { rel: 'icon', href: '/res/icon/icon.png' }
+      { rel: 'icon', href: 'https://godothub.atomgit.net/web/icon/icon.png' }
     ]
   ],
 
@@ -21,13 +22,14 @@ export default defineConfig({
       head: [
         [
           'link',
-          { rel: 'icon', href: '/res/icon/icon.png' }
+          { rel: 'icon', href: 'https://godothub.atomgit.net/web/icon/icon.png' }
         ]
       ],
       themeConfig: {
 
         nav: [
-          { text: 'Home', link: '/' }
+          { text: 'Home', link: '/' },
+          { text: '中文', link: '/zh' }
         ],
 
         sidebar: [
@@ -36,7 +38,9 @@ export default defineConfig({
             items: [
               { text: 'Software', link: '/software' },
               { text: 'Community', link: '/community' },
-              { text: 'Competition', link: '/competition' }
+              { text: 'Competition', link: '/competition' },
+              { text: 'Download', link: '/download' },
+              { text: 'Donate', link: '/donate' },
             ]
           }
         ],
@@ -66,13 +70,14 @@ export default defineConfig({
       head: [
         [
           'link',
-          { rel: 'icon', href: '/res/icon/icon.png' }
+          { rel: 'icon', href: 'https://godothub.atomgit.net/web/icon/icon.png' }
         ]
       ],
       themeConfig: {
 
         nav: [
           { text: '主页', link: '/zh/' },
+          { text: 'English', link: '/' }
         ],
 
         sidebar: [
@@ -81,7 +86,9 @@ export default defineConfig({
             items: [
               { text: '软件项目', link: '/zh/software' },
               { text: '交流社区', link: '/zh/community' },
-              { text: '开发比赛', link: '/zh/competition' }
+              { text: '开发比赛', link: '/zh/competition' },
+              { text: '引擎下载', link: '/zh/download' },
+              { text: '赞助我们', link: '/zh/donate' },
             ]
           }
         ],

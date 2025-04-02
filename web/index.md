@@ -22,4 +22,7 @@ features:
   - title: Competition
     details: Annual development competition starting in 2023
     link: /competition
+  - title: Download
+    details: Unofficial download site for Godot engine
+    link: /download
 ---

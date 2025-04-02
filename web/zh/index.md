@@ -22,4 +22,13 @@ features:
   - title: 开发比赛
     details: 每年一次的开发比赛，始于2023
     link: /zh/competition
+  - title: 引擎下载
+    details: Godot游戏引擎非官方下载站点
+    link: /zh/download
+  - title: 腾讯频道
+    details: 服务于QQ和微信用户的发帖平台
+    link: https://pd.qq.com/g/GodotHub999
+  - title: 开放原子
+    details: 基于OpenAtom的Godot交流论坛
+    link: https://godot.atomgit.com
 ---
